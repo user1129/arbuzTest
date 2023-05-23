@@ -18,4 +18,4 @@ ___
 Запустить проект: node index.js
 Запустить проект в режиме dev: npm run startdev
 ```
-### **Ссылка на коллекцию** https://drive.google.com/file/d/1KcA3xQrEWTnlXfiGuWVVVf4x5lAT9Fpf/view?usp=share_link
+### **Ссылка на коллекцию Insomnia** https://drive.google.com/file/d/1KcA3xQrEWTnlXfiGuWVVVf4x5lAT9Fpf/view?usp=share_link
