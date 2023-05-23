@@ -3,7 +3,6 @@ import dotenv from "dotenv";
 import sequelize from "./db.js";
 import {createProduct, createSubscribe, createUser} from './controllers/main.js'
 
-
 const app = express();
 app.use(express.json());
 dotenv.config();
